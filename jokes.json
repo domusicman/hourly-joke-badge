@@ -1,0 +1,23 @@
+{
+  "jokes": [
+    { "category": "IT Support", "text": "I fixed the bug. It was a loose keyboard-chair connection." },
+    { "category": "IT Support", "text": "Our best diagnostic tool is still: did you try turning it off and on again?" },
+    { "category": "IT Support", "text": "The issue was resolved by applying advanced technique: reading the error message." },
+    { "category": "IT Support", "text": "I closed 12 tabs and gained 30% more troubleshooting speed." },
+
+    { "category": "Wrist Watch", "text": "My watch says I am on time. My calendar strongly disagrees." },
+    { "category": "Wrist Watch", "text": "I bought a smart watch to count steps. It mostly counts coffee walks." },
+    { "category": "Wrist Watch", "text": "My watch is water resistant, but not meeting resistant." },
+    { "category": "Wrist Watch", "text": "I wear a watch to stay punctual, and as a tiny wrist dashboard." },
+
+    { "category": "Bike", "text": "I started biking for cardio, but stayed for the snacks afterward." },
+    { "category": "Bike", "text": "My bike has two gears: fast and why is this hill so steep?" },
+    { "category": "Bike", "text": "Cycling is balance, momentum, and pretending the wind is a training partner." },
+    { "category": "Bike", "text": "A bike ride is just a moving meditation with occasional leg complaints." },
+
+    { "category": "Dad", "text": "Dad mode: active. Puns loaded. Thermostat protected." },
+    { "category": "Dad", "text": "I am reading a book on anti-gravity. It is impossible to put down." },
+    { "category": "Dad", "text": "I know 25 letters of the alphabet. I do not know y." },
+    { "category": "Dad", "text": "As a dad, I tell classic jokes so the next generation can groan properly." }
+  ]
+}
