@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "joke of the hour",
-  "message": "[IT Support] I fixed the bug. It was a loose keyboard-chair connection.",
+  "message": "[IT Support] The issue was resolved by applying advanced technique: reading the error message.",
   "color": "orange",
   "cacheSeconds": 300
 }
